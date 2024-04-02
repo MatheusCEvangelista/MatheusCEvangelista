@@ -1,20 +1,20 @@
 - 👋 Tudo bem? Sou Matheus de Castro Evangelista e estou no ínico de desenvolvimento de softwares.
 - Por hora irei apenas postar projetos básicos.
 
-# Salve Salve, Pedro aqui!
-### Bem vindo ao meu perfil do GitHub
+
+### Bem vindo ao meu perfil destinado a programação!
 
 <div align="center">
-<a href="https://github.com/PGalmeida">
-  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGalmeida&layout=compact&langs_count=10&theme=highcontrast&show_icons=true"/>
-  <img loading="lazy" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=PGalmeida&theme=python-dark&hide_border=verdadeiro&border_radius=10&locale=pt_BR&card_width=500"/>
+<a href="https://github.com/MatheusCEvangelista">
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCEvangelista&layout=compact&langs_count=10&theme=highcontrast&show_icons=true"/>
+  <img loading="lazy" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCEvangelista&theme=python-dark&hide_border=verdadeiro&border_radius=10&locale=pt_BR&card_width=500"/>
 
 </div>
 <br>
 <div class="contato" align="center">
     <a href="https://www.linkedin.com/in/pedro-gomes-a88a54266" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    <a href = "mailto:pedro8tp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://www.instagram.com/pedro.moedas/"><img loading="lazy" src="https://img.shields.io/badge/-instagram-%25230077B5?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:matcastroea@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "https://www.instagram.com/mattcastroev/"><img loading="lazy" src="https://img.shields.io/badge/-instagram-%25230077B5?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 <!-- <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right> -->
 <div>
     <div>
-      🎓 Atualmente, estou matriculado na graduação de Sistemas de Informação na Uni-facef, localizada em Franca. Desde sempre, nutri uma paixão pela área de programação. Durante o ensino médio, combinei meus estudos com um curso técnico em Desenvolvimento de Sistemas.
+      🎓 Atualmente, estou matriculado na graduação de Ciências da Computação na Uni-facef, na cidade de Franca. Minha paixão pela programação se iniciou 
     </div>
 <br>
     <div>
