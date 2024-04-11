@@ -1,5 +1,5 @@
 - 👋 Tudo bem? Sou Matheus de Castro Evangelista e estou no ínico de desenvolvimento de softwares.
-- Por hora irei apenas postar projetos básicos.
+
 
 
 ### Bem vindo ao meu perfil destinado a programação!
@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://github.com/MatheusCEvangelista">
   <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCEvangelista&layout=compact&langs_count=10&theme=highcontrast&show_icons=true"/>
-  <img loading="lazy" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCEvangelista&theme=python-dark&hide_border=verdadeiro&border_radius=10&locale=pt_BR&card_width=500"/>
+  <img loading="lazy" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCEvangelista&theme=-dark&hide_border=verdadeiro&border_radius=10&locale=pt_BR&card_width=500"/>
 
 </div>
 <br>
@@ -23,12 +23,9 @@
 <!-- <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right> -->
 <div>
     <div>
-      🎓 Atualmente, estou matriculado na graduação de Ciências da Computação na Uni-facef, na cidade de Franca. Minha paixão pela programação se iniciou 
+      🎓 Atualmente, estou matriculado na graduação de Ciências da Computação na Uni-facef, na cidade de Franca. Minha paixão pela programação se iniciou na instituição de ensino SESI, com a robótica fazendo parte da grade curricular.
     </div>
 <br>
-    <div>
-      💻 Atualmente, ocupo o cargo de estagiário no Serviço Autônomo de Água e Esgoto de Ipuã (SAAEI), desempenhando atividades principalmente na área de Tecnologia da Informação (TI). Além disso, também colaboro ocasionalmente com tarefas relacionadas à contabilidade e como auxiliar do Procurador Geral dentro da empresa.
-    </div>
 </div>
 
 <br>
@@ -37,7 +34,7 @@
 <!-- <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right> -->
 <div>
     <div>
-        Busco integrar-me à área de Tecnologia da Informação, com ênfase em Banco de Dados ou linguagem Python, visando aprimorar minhas competências, absorver conhecimento junto a profissionais experientes e agregar valor a projetos desafiadores.
+        Atualmente busco ingressar no mercado de desenvolvimento de software e possuo conhecimentos em Front-end, Back-end e Banco de Dados!
     </div>
 </div>
 
@@ -52,17 +49,9 @@
     height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" 
     height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" 
-    height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" 
     height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" 
-    height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" 
-    height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" 
-    height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" 
     height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" 
     height="50"/>
@@ -73,19 +62,14 @@
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" 
     height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" width="50" height="50"/>
-</div>
-
+  
 ### Linguagem Preferida
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </div>
 <br>
 
