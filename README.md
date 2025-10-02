@@ -25,7 +25,7 @@
 <!-- <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right> -->
 <div>
     <div>
-      🎓 Atualmente, estou matriculado na graduação de Ciências da Computação na Uni-facef, na cidade de Franca. Minha paixão pela programação se iniciou na instituição de ensino SESI, com a robótica fazendo parte da grade curricular.
+      🎓 Atualmente, estou matriculado na graduação de Sistemas da Informação na Uni-facef, na cidade de Franca. Minha paixão pela programação se iniciou na instituição de ensino SESI, com a robótica fazendo parte da grade curricular.
     </div>
 <br>
 </div>
@@ -36,7 +36,7 @@
 <!-- <img src="https://github.com/RenanOliveiraSilva/RenanOliveiraSilva/blob/main/img.png" alt=celebrate width=250 align=right> -->
 <div>
     <div>
-        Atualmente busco ingressar no mercado de desenvolvimento de software e possuo conhecimentos em Front-end, Back-end e Banco de Dados!
+        Me integrar com a empresa, desenvolvendo minhas habilidade de Banco de dados e amplo conhecimento em regras de negócio.
     </div>
 </div>
 
