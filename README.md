@@ -1,4 +1,6 @@
-- 👋 Tudo bem? Sou Matheus de Castro Evangelista e estou no ínico de desenvolvimento de softwares.
+- 👋 Tudo bem? Sou Matheus de Castro Evangelista, bem vindo ao meu perfil!
+
+- Atualmente sou estagiário de desenvolvimento na CHB sistemas!
 
 
 
